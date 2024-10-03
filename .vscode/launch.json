@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GestionadorComunidadesApplication",
+            "request": "launch",
+            "mainClass": "TFG.GestionadorComunidades.FrameworksDrivers.Application.GestionadorComunidadesApplication",
+            "projectName": "GestionadorComunidades"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GestionadorComunidadesApplication<GestionadorComunidades>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "TFG.GestionadorComunidades.GestionadorComunidadesApplication",
+            "projectName": "GestionadorComunidades",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
