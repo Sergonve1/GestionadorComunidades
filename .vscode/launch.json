@@ -12,7 +12,7 @@
             "name": "Spring Boot-GestionadorComunidadesApplication<GestionadorComunidades>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "mainClass": "TFG.GestionadorComunidades.GestionadorComunidadesApplication",
+            "mainClass": "TFG.GestionadorComunidades.FrameworksDrivers.Application.GestionadorComunidadesApplication",
             "projectName": "GestionadorComunidades",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
